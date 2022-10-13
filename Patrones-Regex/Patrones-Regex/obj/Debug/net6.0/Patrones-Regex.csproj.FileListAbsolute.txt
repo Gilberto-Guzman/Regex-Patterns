@@ -1,0 +1,15 @@
+C:\Users\joseg\source\repos\Patrones-Regex\Patrones-Regex\bin\Debug\net6.0\Patrones-Regex.exe
+C:\Users\joseg\source\repos\Patrones-Regex\Patrones-Regex\bin\Debug\net6.0\Patrones-Regex.deps.json
+C:\Users\joseg\source\repos\Patrones-Regex\Patrones-Regex\bin\Debug\net6.0\Patrones-Regex.runtimeconfig.json
+C:\Users\joseg\source\repos\Patrones-Regex\Patrones-Regex\bin\Debug\net6.0\Patrones-Regex.dll
+C:\Users\joseg\source\repos\Patrones-Regex\Patrones-Regex\bin\Debug\net6.0\Patrones-Regex.pdb
+C:\Users\joseg\source\repos\Patrones-Regex\Patrones-Regex\obj\Debug\net6.0\Patrones-Regex.csproj.AssemblyReference.cache
+C:\Users\joseg\source\repos\Patrones-Regex\Patrones-Regex\obj\Debug\net6.0\Patrones-Regex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joseg\source\repos\Patrones-Regex\Patrones-Regex\obj\Debug\net6.0\Patrones-Regex.AssemblyInfoInputs.cache
+C:\Users\joseg\source\repos\Patrones-Regex\Patrones-Regex\obj\Debug\net6.0\Patrones-Regex.AssemblyInfo.cs
+C:\Users\joseg\source\repos\Patrones-Regex\Patrones-Regex\obj\Debug\net6.0\Patrones-Regex.csproj.CoreCompileInputs.cache
+C:\Users\joseg\source\repos\Patrones-Regex\Patrones-Regex\obj\Debug\net6.0\Patrones-Regex.dll
+C:\Users\joseg\source\repos\Patrones-Regex\Patrones-Regex\obj\Debug\net6.0\refint\Patrones-Regex.dll
+C:\Users\joseg\source\repos\Patrones-Regex\Patrones-Regex\obj\Debug\net6.0\Patrones-Regex.pdb
+C:\Users\joseg\source\repos\Patrones-Regex\Patrones-Regex\obj\Debug\net6.0\Patrones-Regex.genruntimeconfig.cache
+C:\Users\joseg\source\repos\Patrones-Regex\Patrones-Regex\obj\Debug\net6.0\ref\Patrones-Regex.dll
